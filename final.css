@@ -64,5 +64,6 @@
     margin-bottom: 13px;    
 }
  .img {
-   size: 300;
+   height: 300;
+   width: 300;
  }
